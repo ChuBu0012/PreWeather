@@ -2,7 +2,7 @@
 # Create By
 Pornput Sooduppatham & Kittikorn Vorraprateep
 
-# Tool & technology
+# Tool & Technology
 Html Css JavaScript TailwindCss RapidAPI
 
 # Visit Website
