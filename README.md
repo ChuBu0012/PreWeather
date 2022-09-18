@@ -12,6 +12,6 @@ Html Css JavaScript TailwindCss RapidAPI
 ---
 <p align="center">
 <a href="https://meepoohvp.github.io/weather-project/">
-<img src="PreWeather.gif" alt="drawing" width="650" align="center"/>
+<img src="PreWeather.gif" alt="" width="650" align="center"/>
 </a>
 </p>
